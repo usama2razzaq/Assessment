@@ -1,0 +1,164 @@
+{
+    "productList": [
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Honda CITY 1.5L",
+            "description": "Beautifully crafted with attention to detail, the City’s striking silhouette is one to draw every attention.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/7/1687/honda-city-2020-front-angle-low-view-996291.jpg",
+            "price": 86000
+        },
+        {
+            "id": 2,
+            "category": 1,
+            "name": "TOYOTA VIOS",
+            "description": "Built to exceed as never before, find out why the Vios is too irresistible to handle. A smoother and safer drive is undeniably exciting behind the wheels of the Vios.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/25/1565/toyota-vios-front-angle-low-view-885280.jpg",
+            "price": 69000
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "NISSAN ALMERA",
+            "description": "It's everything you're looking for, and more. All-New Nissan Almera features Nissan Intelligent Mobility technology that can help keep you safe and connects you to your world like never before",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/30/277/nissan-almera-front-angle-low-view-711335.jpg",
+            "price": 78000
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Proton Persona",
+            "description": "Gain entry and start the engine effortlessly without the need to take out the intelligent key from your pocket or handbag.",
+            "imageUrl": "https://imgcdnblog.carbay.com/wp-content/uploads/2020/03/18112246/PERSONA-1.jpg",
+            "price": 58000
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Perodua Bezza",
+            "description": "The Perodua Bezza is an A-segment sedan produced by Malaysian automobile manufacturer Perodua. It was launched on 21 July 2016 as Perodua's first sedan car, and a complement to the Axia hatchback.",
+            "imageUrl": "https://imgcdn.zigwheels.my/medium/gallery/exterior/18/1660/perodua-bezza-2020-53221.jpg",
+            "price": 48000
+        },
+        {
+            "id": 6,
+            "category": 2,
+            "name": "Proton X50",
+            "description": "The feature list of X50 includes Central Locking, Power Door Locks, Anti Theft Device, Anti-Theft Alarm and Engine Immobilizer in terms of security.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/26/1577/proton-x50-front-angle-low-view-387570.jpg",
+            "price": 89000
+        },
+        {
+            "id": 7,
+            "category": 2,
+            "name": "BMW X5",
+            "description": "Built to exceed as never before, find out why the Vios is too irresistible to handle. A smoother and safer drive is undeniably exciting behind the wheels of the Vios.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/15/1583/bmw-x5-2019-front-angle-low-view-729935.jpg",
+            "price": 418814
+        },
+        {
+            "id": 8,
+            "category": 2,
+            "name": "Toyota Fortuner",
+            "description": "The Fortuner is powered by a 2393cc 4-cylinder Diesel engine produces 148 hp of power and 400 Nm of torque, 2694cc 4-cylinder Petrol engine produces 164 hp of power and 245 Nm of torque and 2755cc 4-cylinder Diesel engine produces 201 hp of power and 500 Nm of torque.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/25/1707/toyota-fortuner-2021-front-angle-low-view-606547.jpg",
+            "price": 169167
+        },
+        {
+            "id": 9,
+            "category": 2,
+            "name": "Perodua Ativa",
+            "description": "Gain entry and start the engine effortlessly without the need to take out the intelligent key from your pocket or handbag.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/18/1669/perodua-d55l-front-side-view-541816.jpg",
+            "price": 72000
+        },
+        {
+            "id": 10,
+            "category": 2,
+            "name": "Toyota Harrier",
+            "description": "Step into the cabin of the Toyota Harrier, and you will mistake it for a cabin of a Lexus car. The choice of materials and the layout of different components indeed is something which is in line with other Lexus offerings like the RX series.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/25/1344/toyota-harrier-front-angle-low-view-472271.jpg",
+            "price": 249706
+        },
+        {
+            "id": 11,
+            "category": 3,
+            "name": "Perodua Axia",
+            "description": "Perodua Axia was launched over half a decade ago and the 5 door hatchback soon became one of the most popular offerings in the segment. Axia is Perodua's successor to the Viva city car and currently holds the title for being the most affordable car in Malaysia.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/18/1644/perodua-axia-2019-front-angle-low-view-910655.jpg",
+            "price":  33940
+        },
+        {
+            "id": 12,
+            "category": 3,
+            "name": "Perodua Myvi",
+            "description": "While the Perodua Myvi is positioned as a premium hatchback, the overall styling of the car doesn’t suggest so. The Myvi looks a bit bland by today’s high standards set by other cars in the same space, which makes it look quite dated and uninspiring as well- While the Myvi is powered by decently powerful petrol engine options, the driveability of the car is not as engaging as one would expect it to be.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/18/1340/perodua-myvi-front-angle-low-view-485010.jpg",
+            "price": 58800
+        },
+        {
+            "id": 13,
+            "category": 3,
+            "name": "Honda Jazz",
+            "description": "Honda Jazz, the B-segment hatchback, is known for its typical Japanese looks, spacious interior, powerful engine, and decent mileage. The refreshed version featuring a softer and more rounded look has already been unveiled at the 2019 Tokyo Motor Show, but it is still awaited in the Malaysian market.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/7/1258/honda-jazz-front-angle-low-view-325020.jpg",
+            "price": 84955
+        },
+        {
+            "id": 14,
+            "category": 3,
+            "name": "Proton Iriz",
+            "description": "The Proton Iriz might be the smallest car manufactured by the Malaysian automobile company, but it is surely one of the most high-performing compact vehicles in the market. The Iriz looks very subtle from the outside. The chrome finished front grille, stylish crease lines, vertical taillamps, and the roof mounted spoiler make the Iriz look attractive from all sides. ",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/26/1591/proton-iriz-front-medium-view-522702.jpg",
+            "price": 42764
+        },
+        {
+            "id": 15,
+            "category": 3,
+            "name": "Mazda 3 Liftback",
+            "description": "Step into the cabin of the Toyota Harrier, and you will mistake it for a cabin of a Lexus car. The choice of materials and the layout of different components indeed is something which is in line with other Lexus offerings like the RX series.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/color/13/1579/mazda-3-2019-color-778955.jpg",
+            "price": 154000
+        },{
+            "id": 16,
+            "category": 4,
+            "name": "Ford Mustang",
+            "description": "One of the most iconic muscle cars from the land of America, the Ford Mustang has followed a bigger global way, unlike its traditional competitors, and has ventured into Malaysia as well.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/31/675/ford-mustang-front-angle-low-view-225070.jpg",
+            "price":  565626
+        },
+        {
+            "id": 17,
+            "category": 4,
+            "name": "Porsche 718",
+            "description": "The Porsche 718 is a two-seater luxury sports car. The 2020 Porsche 718 Cayman GT4 and the 718 Spyder are the two latest addition to the manufacturer’s lineup in Malaysia.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/28/204/porsche-718-front-angle-low-view-696273.jpg",
+            "price": 710000
+        },
+        {
+            "id": 18,
+            "category": 4,
+            "name": "BMW 8 Series Coupe",
+            "description": "An updated BMW 8 Series was recently spotted testing and it looks like it features an updated infotainment system along with some substantial tweaks to the exterior. The new 8 Series might also feature a mild-hybrid system. As for now, the 8 Series Coupe is available in its 2020 variant in Malaysia and starts at RM 1.06 Million.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/15/1594/bmw-8-series-front-medium-view-505007.jpg",
+            "price": 1006000
+        },
+        {
+            "id": 19,
+            "category": 4,
+            "name": "McLaren 570S",
+            "description": "The 570S is the first model in the British Company’s Sports Series Range and is priced at RM 801,912 in the market. This car is powered by McLaren’s 3.8-litre V8 twin-turbo engine which produces 570 PS at 7400 rpm and 600 Nm of torque between 5000 and 6500 rpm. ",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/44/1145/mclaren-570s-front-angle-low-view-651202.jpg",
+            "price": 801912
+        },
+        {
+            "id": 20,
+            "category": 4,
+            "name": "Subaru BRZ",
+            "description": "In the global market, Subaru is all set to introduce the second-generation BRZ this month, with an expectation to hit the roads sometime next year as a 2022 model. Locally, the Toyota GT 86’s twin received an update in 2017 when the automaker introduced a six-speed manual gearbox along with aesthetic enhancements.",
+            "imageUrl": "https://imgcdn.zigwheels.my/large/gallery/exterior/22/138/subaru-brz-front-medium-view-936286.jpg",
+            "price": 211729
+        }
+        
+    ]
+}

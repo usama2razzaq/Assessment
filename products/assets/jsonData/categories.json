@@ -1,0 +1,35 @@
+{
+    "categoryList": [
+        {
+            "id": 0,
+            "name": "All",
+            "imageUrl": "https://pic.onlinewebfonts.com/svg/img_186842.png",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "SEDAN",
+            "imageUrl": "https://cdn2.iconfinder.com/data/icons/vehicle-type/1024/sedan-512.png",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "name": "SUV",
+            "imageUrl": "https://www.pngfind.com/pngs/m/620-6203896_suv-png-suv-car-icon-png-transparent-png.png",
+            "category":2
+        },
+        {
+            "id": 3,
+            "name": "HATCHBACK",
+            "imageUrl": "https://cdn2.iconfinder.com/data/icons/vehicle-type/1024/hatchback-512.png",
+            "category":3
+        },
+        {
+            "id": 4,
+            "name": "Coupe",
+            "imageUrl": "https://cdn4.iconfinder.com/data/icons/urban-transport-3/50/48-512.png",
+            "category":3
+        }
+        
+    ]
+}
